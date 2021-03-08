@@ -1,5 +1,5 @@
 import React from 'react'
-import './index.css'
+import './Most.css'
 
 
 
@@ -37,6 +37,9 @@ const MostRecp = () => {
                             <div class="co2">
                                 <p id="eight" >8 Easy Instant Pot Recipes </p>
                                 <div class="white2"> <i id="heart2" className="fa fa-heart"></i> </div>
+                                <div id="black" class="overlay-label format-label gallery-format" >
+                                    <i class="far fa-images" ></i>
+                                </div>
                                 <p id="sw" >APPETIZER / SOUP</p>
                                 <div className="icons2" >
                                     <i class="fas fa-comments"></i><span> 2  </span>
@@ -52,6 +55,9 @@ const MostRecp = () => {
                             <div class="one">
                                 <p id="penjoy"  >Enjoy My Favourite Molten <br />Chocolate Cake </p>
                                 <div class="white3"> <i id="heart3" className="fa fa-heart"></i> </div>
+                                <div id="black2" class="overlay-label format-label gallery-format" >
+                                    <i class="far fa-images" ></i>
+                                </div>
                                 <p id="sw1" >BREAD / SWEET </p>
                                 <div className="icon1" >
                                     <i class="fas fa-comments"></i><span> 20  </span>
@@ -89,8 +95,8 @@ const MostRecp = () => {
                         </div>
                     </div>
                 </div>
-
             </section>
+         
         </>
 
     )

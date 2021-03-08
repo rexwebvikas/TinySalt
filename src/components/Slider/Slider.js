@@ -6,7 +6,7 @@ import img4 from './images/4.jpeg'
 import img5 from './images/5.jpeg'
 import { Carousel } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import './index.css'
+import './Slider.css'
 
 const Slider = () => {
     return (

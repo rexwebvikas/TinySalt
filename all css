@@ -1,0 +1,724 @@
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    box-sizing: border-box;
+}
+.section{
+    /* height: 400px;
+    width: 60%;
+    border: 2px solid blue; */
+}
+.ct2{
+    margin-left: 65px;
+    /* border: 2px solid red;    */
+      /* height: 3200px; */
+    max-width: 60%;
+    padding: 0px 0px;
+  
+
+}
+.row2{
+    /* border: 1px solid blue;   */
+    height: 500px;
+    max-width: 100%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+
+}
+#colum1{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+#colum2{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.image1{
+    background-image: url(./images/6.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 400px; 
+    padding: 0;
+    margin:0;
+}
+.image2{
+    background-image: url(./images/7.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 400px; 
+    padding: 0;
+    margin:0;
+}
+
+
+.row3{
+    /* border: 1px solid red;   */
+    height: 500px;
+    max-width: 100%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    margin-top: 150px;
+
+}
+#colum3{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+#colum4{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.image3{
+    background-image: url(./images/8.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 400px; 
+    padding: 0;
+    margin:0;
+}
+.image4{
+    background-image: url(./images/9.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 400px; 
+    padding: 0;
+    margin:0;
+}
+
+
+.row4{
+    /* border: 1px solid red;   */
+    height: 500px;
+    max-width: 100%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    margin-top: 150px;
+    /* margin-top: -1300px; */
+
+}
+#colum5{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+#colum6{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.image5{
+    background-image: url(./images/10.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 400px; 
+    padding: 0;
+    margin:0;
+}
+.image6{
+    background-image: url(./images/11.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: 100% 100%;
+
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 400px; 
+    padding: 0;
+    margin:0;
+    
+}
+h4{
+    padding: 0;
+    margin:0;
+    margin-left: 80px;
+    margin-top:50px;
+   
+}
+h2{
+    /* color: green; */
+    padding: 0;
+    margin:0;
+    font-size: 20px;
+    margin-top:15px;
+    text-decoration: none;
+}
+.brain{
+    color:black;
+}
+.beve{
+    font-size: 12px;
+    color: green
+}
+.vest{
+    color: black;
+    font-size: 15px;
+    margin-top: 26px;
+    left: auto;
+}
+.Read{
+    color:black;
+    font-size: 17px;
+    padding-top: 103px;
+}
+.readp{
+    color:black;
+}
+.icons{
+    margin-top: -20px;
+ 
+    color: black;
+    padding-top: 22px;
+    padding: 0px;
+    padding-left: 140px;
+   
+    font-size: 13px;
+}
+.Rose{
+    color:black;
+}
+.pasta{
+    font-size: 12px;
+    color: green
+}
+.vest2{
+    color: black;
+    font-size: 15px;
+    margin-top: 26px;
+    left: auto;
+}
+.Read2{
+    color:black;
+    font-size: 17px;
+    padding-top: 103px;
+}
+.readp2{
+    color:black;
+}
+.icons2{
+    margin-top: -20px;
+ 
+    color: black;
+    padding-top: 22px;
+    padding: 0px;
+    padding-left: 95px;
+   
+    font-size: 13px;
+}
+.The{
+    color:black;
+}
+.beve2{
+    font-size: 12px;
+    color: green
+}
+.vest3{
+    color: black;
+    font-size: 15px;
+    margin-top: 26px;
+    left: auto;
+}
+.Read3{
+    color:black;
+    font-size: 17px;
+    padding-top: 103px;
+}
+.readp3{
+    color:black;
+}
+.icons3{
+    margin-top: -20px;
+ 
+    color: black;
+    padding-top: 22px;
+    padding: 0px;
+    padding-left: 48px;
+   
+    font-size: 13px;
+}
+
+
+
+
+.pick{
+    color:black;
+}
+.vegan{
+    font-size: 12px;
+    color: green
+}
+.Etiam{
+    color: black;
+    font-size: 15px;
+    margin-top: 26px;
+    left: auto;
+}
+.Read4{
+    color:black;
+    font-size: 17px;
+    padding-top: 103px;
+}
+.readp4{
+    color:black;
+}
+.icons4{
+    margin-top: -20px;
+ 
+    color: black;
+    padding-top: 22px;
+    padding: 0px;
+    padding-left: 48px;
+   
+    font-size: 13px;
+} 
+
+
+
+.Rustic{
+    color:black;
+}
+.sweet{
+    font-size: 12px;
+    color: green
+}
+.Aenean{
+    color: black;
+    font-size: 15px;
+    margin-top: 26px;
+    left: auto;
+}
+.Read5{
+    color:black;
+    font-size: 17px;
+    padding-top: 103px;
+}
+.readp5{
+    color:black;
+}
+.icons6{
+    margin-top: -20px;
+ 
+    color: black;
+    padding-top: 22px;
+    padding: 0px;
+    padding-left: 110px;
+   
+    font-size: 13px;
+} 
+
+
+
+
+
+.Rusty{
+    color:black;
+}
+.swe{
+    font-size: 12px;
+    color: green
+}
+.Vestibulum{
+    color: black;
+    font-size: 15px;
+    margin-top: 26px;
+    left: auto;
+}
+.Read6{
+    color:black;
+    font-size: 17px;
+    padding-top: 103px;
+}
+.readp6{
+    color:black;
+}
+.icons5{
+    margin-top: -20px;
+ 
+    color: black;
+    padding-top: 22px;
+    padding: 0px;
+    padding-left: 110px;
+   
+    font-size: 13px;
+} 
+
+
+
+
+.Almond{
+    color:black;
+}
+.swee2{
+    font-size: 12px;
+    color: green
+}
+.Vestibulum{
+    color: black;
+    font-size: 15px;
+    margin-top: 26px;
+    left: auto;
+}
+.Read6{
+    color:black;
+    font-size: 17px;
+    padding-top: 103px;
+}
+.readp6{
+    color:black;
+}
+.icons6{
+    margin-top: -20px;
+ 
+    color: black;
+    padding-top: 22px;
+    padding: 0px;
+    padding-left: 52px;
+   
+    font-size: 13px;
+} 
+
+
+
+
+
+.row5{
+    /* border: 1px solid red;   */
+    height: 500px;
+    max-width: 100%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    margin-top: 150px;
+    /* margin-top: -1300px; */
+
+}
+#colum7{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+#colum8{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.image7{
+    background-image: url(./images/12.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 400px; 
+    padding: 0;
+    margin:0;
+}
+.image8{
+    background-image: url(./images/13.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 400px; 
+    padding: 0;
+    margin:0;
+}
+
+.row6{
+    /* border: 1px solid red;   */
+    height: 500px;
+    max-width: 100%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+    margin-top: 150px;
+    /* margin-top: -1300px; */
+
+}
+#colum9{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+#colum10{
+    border: 15px solid white;
+    height: 500px;
+   width: 40%;
+    padding: 0px 0px;
+    margin: 0px 0px;
+}
+.image9{
+    background-image: url(./images/14.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 500px; 
+    padding: 0;
+    margin:0;
+}
+.image10{
+    background-image: url(./images/15.jpeg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-size: 100% 100%;
+    transition: transform 1s ease;
+    max-width: 100%;
+    height: 500px; 
+    padding: 0;
+    margin:0;
+}
+
+
+
+
+
+
+ {/* <div className=" row row2">
+                        <div id="colum1" className="col-lg-6 ">
+                            <div class="image1" ></div>
+
+                            <h2>
+                                <a className="brain" href="#">  Brain Power Blueberry Smoothie</a>
+                            </h2>
+                            <div>
+                                <a className="beve" href="#">  BEVERAGES / SWEET </a>
+                                <div className="icons" >
+                                    <i class="fas fa-comments"></i><span> 2  </span>
+
+                                </div>
+
+                            </div>
+                            <p className="vest">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce porttitor metus eget lectus consequat, sit amet feugiat magna vulputate. Phasellus …</p>
+                            <div className="Read" >
+                                <a className="readp" href="#" > Read More </a>
+                            </div>
+
+                        </div>
+                        <div id="colum2" className="col-lg-6 ">
+                            <div class="image2" ></div>
+
+
+                            <h2>
+                                <a className="Rose" href="#"> Rose Syrup Ice Tea </a>
+                            </h2>
+                            <div>
+                                <a className="beve2" href="#">  BEVERAGES</a>
+                                <div className="icons2" >
+                                    <i class="fas fa-comments"></i><span> 2  </span>
+
+                                </div>
+
+                            </div>
+                            <p className="vest2">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce porttitor metus eget lectus consequat, sit amet feugiat magna vulputate. Phasellus …</p>
+                            <div className="Read2" >
+                                <a className="readp2" href="#" > Read More </a>
+                            </div>
+
+                        </div>
+
+                    </div>
+
+
+
+                    <div className=" row row3">
+                        <div id="colum3" className="col-lg-6 ">
+                            <div class="image3" ></div>
+
+                            <h2>
+                                <a className="The" href="#"> The Best Spaghetti Meat Sauce</a>
+                            </h2>
+                            <div>
+                                <a className="pasta" href="#">  PASTA </a>
+                                <div className="icons3" >
+                                    <i class="fas fa-comments"></i><span> 3  </span>
+
+                                </div>
+
+                            </div>
+                            <p className="vest3">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce porttitor metus eget lectus consequat, sit amet feugiat magna vulputate. Phasellus …</p>
+                            <div className="Read3" >
+                                <a className="readp3" href="#" > Read More </a>
+                            </div>
+
+                        </div>
+
+
+                      
+                        <div id="colum4" className="col-lg-6 ">
+                            <div class="image4" ></div>
+                            
+                            <h2>
+                                <a className="pick" href="#"> Pickled Summer Vegetables</a>
+                            </h2>
+                            <div>
+                                <a className="vegan" href="#">  VEGAN </a>
+                                <div className="icons4" >
+                                    <i class="fas fa-comments"></i><span> 3  </span>
+
+                                </div>
+
+                            </div>
+                            <p className="Etiam">Etiam sed enim vitae magna pretium tincidunt eget vel massa. Maecenas porttitor at risus sit amet facilisis. Cras et elit id velit semper bibendum et …</p>
+                            <div className="Read4" >
+                                <a className="readp4" href="#" > Read More </a>
+                            </div>
+
+
+                        </div>
+
+                    </div>
+
+                    <div className=" row row4">
+                        <div id="colum5" className="col-lg-6 ">
+                            <div class="image5" ></div>
+
+
+                            <h2>
+                                <a className="Rusty" href="#"> Rustic Crusty Bread</a>
+                            </h2>
+                            <div>
+                                <a className="swe" href="#">  BREAD / SWEET </a>
+                                <div className="icons5" >
+                                    <i class="fas fa-comments"></i><span> 3  </span>
+
+                                </div>
+
+                            </div>
+                            <p className="Aenean">Aenean quam nunc, condimentum quis orci quis. Quisque faucibus est purus, et gravida urna molestie eget. Suspendisse vel leo est. Duis blandit rhoncus nisi, eget …</p>
+                            <div className="Read5" >
+                                <a className="readp5" href="#" > Read More </a>
+                            </div>
+
+
+
+
+
+
+
+
+                        </div>
+                        <div id="colum6" className="col-lg-6 ">
+                            <div class="image6" ></div>
+
+
+                            <h2>
+                                <a className="Almond" href="#"> Almond Pastry Cookies</a>
+                            </h2>
+                            <div>
+                                <a className="swee2" href="#"> SWEET </a>
+                                <div className="icons6" >
+                                    <i class="fas fa-comments"></i><span> 3  </span>
+
+                                </div>
+
+                            </div>
+                            <p className="Vestibulum">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce porttitor metus eget lectus consequat, sit amet feugiat magna vulputate. Phasellus …</p>
+                            <div className="Read6" >
+                                <a className="readp6" href="#" > Read More </a>
+                            </div>
+
+
+
+
+
+
+                        </div>
+
+                    </div>
+
+
+                    <div className=" row row5">
+                        <div id="colum7" className="col-lg-6 ">
+                            <div class="image7" ></div>
+
+
+                            <h2>
+                                <a className="Almond" href="#"> Almond Pastry Cookies</a>
+                            </h2>
+                            <div>
+                                <a className="swee2" href="#"> SWEET </a>
+                                <div className="icons6" >
+                                    <i class="fas fa-comments"></i><span> 3  </span>
+
+                                </div>
+
+                            </div>
+                            <p className="Vestibulum">Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce porttitor metus eget lectus consequat, sit amet feugiat magna vulputate. Phasellus …</p>
+                            <div className="Read6" >
+                                <a className="readp6" href="#" > Read More </a>
+                            </div>
+
+                        </div>
+                        <div id="colum8" className="col-lg-6 ">
+                            <div class="image8" ></div>
+                        </div>
+
+                    </div>
+
+                    <div className=" row row6">
+                        <div id="colum9" className="col-lg-6 ">
+                            <div class="image9" ></div>
+
+                        </div>
+                        <div id="colum10" className="col-lg-6 ">
+                            <div class="image10" ></div>
+                        </div>
+
+                    </div> */}
+
