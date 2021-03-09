@@ -1,0 +1,379 @@
+
+/* .widget tinysalt-widget_about{
+    /* text-align: center; */
+
+
+.profile img{
+    border: 1px dashed green; 
+    border-radius:50%;
+    display: flex;
+    /* z-index: 3; */
+  
+    margin: 0 auto 18px;
+    /* overflow: hidden; */
+
+}
+.subheading{
+    display: block;
+    /* margin:  0 0 15px; */
+    font-size: 1.3125rem;
+    font-weight: 500;
+    line-height: 1;
+    text-align: center;
+    /* margin-left: 10px !important; */
+}
+ .textwidget p{
+     /* margin: 0  0 15px; */
+    display: block;
+     font-size: 0.6rem;
+     text-align: center;
+      
+
+} 
+.socialrow{
+    background-color: white;
+    /* margin: 0px;
+    padding: 0px; */
+   
+    
+}
+.socialrowul{
+     display: flex !important; 
+    /* display: inline-block; */
+    list-style: none;
+    /* margin: 0px -5px !important; */
+     /* margin: 0px; 
+     padding: 0px; */
+  
+
+    
+}
+/* .socialwiget{
+    max-width: 100%;
+} */
+.menu-item{
+    margin: 4px; 
+     text-align: center;   
+    /* align-items: center; */
+}
+.button{
+    /* position: relative; */
+    /* z-index: 1; */
+    display: flex;
+    padding: 0 30px;
+    background: green;
+    border: none;
+    border-radius: 999px;
+    color: white;
+    font-size: .6875rem;
+    font-weight: 700;
+    letter-spacing: .2rem;
+    text-transform: uppercase;
+    line-height: 42px;
+    text-align: center;
+    transition: .4s;
+    cursor: pointer;
+    text-decoration: none;
+
+
+
+}
+.learnmorebutton{
+    display: inline-block;
+    text-align: center;
+    margin:  auto !important;
+}
+#secondary{
+    /* border: 3px solid !important; */
+    width: 19%;
+    /* float: right; */
+    /* height: 1220px; */
+}
+.CooKbookimg{
+   display: flex;
+ margin: auto;
+ margin-top: 30px !important;
+}
+#cookbooksimg{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+}
+.vegan_Rescipes {
+
+    /* border: 1px solid green !important; */
+    height: 30px !important;
+    display: flex;
+     font-size: 0.6rem;
+     /* text-align: center !important; */
+   margin-top: 20px !important;
+   letter-spacing: .1rem;
+   font-weight: 700;
+   margin: auto;
+   align-items: center;
+   justify-content: center;
+   
+ 
+}
+ .vegitableimg {
+       
+   
+   
+    
+    display: inline-block;
+    margin: auto;
+
+    width: 50px !important;
+    height: 50px !important;
+    border-radius: 50% !important;
+     text-decoration: none !important; 
+    list-style: none !important;
+}  
+.vegitable{
+    list-style: none;
+    margin-top: 40px;
+    display: block;
+    margin: 0px;
+    padding: 0px;
+    
+    
+   
+}
+#sidebar{
+    text-align: center;
+}
+.psoty-title{
+   
+    /* width: 100%; */
+
+    font-size: 0.6rem;
+   
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 1.2;
+    margin: auto;
+     margin-left: 5px !important;
+    display: inline-block;
+    margin-top: 10px !important;
+}
+.meta-item{
+    display: inline-block;
+    font-size: 0.1rem;
+    /* margin: auto; */
+    margin-left: 6px !important;
+}
+.form_Respicesss{
+
+    border-top: 5px solid green;
+    background: #fff;
+    /* border-radius:  0 0 10px 10px !important; */
+    /* box-shadow: 0 5px 20px -6px rgba(0,0,0,.05), 0 0 1px rgba(0,0,0,.05); */
+    text-align: center;
+    /* transition: box-shadow .4s; */
+    /* margin-top: 30px !important; */
+    /* font-size: 1rem; */
+    background-color:	#E0E0E0;
+    
+}
+ .form-Respices{
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 70%;
+    margin-bottom: 20px !important;
+    margin-top: 30px !important;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    font-size: 1rem;
+    
+} 
+.TinySalt{
+    display: block;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 0.5rem;
+}
+.inputFields{
+    width: 100%;
+    padding: 5px 15px;
+    background: rgba(0, 0, 0, 03);
+    border: none;
+    color: #000;
+    line-height: 2;
+    font-weight: 400;
+}
+.inputFields{
+
+    position: relative;
+    z-index: 1;
+    height: 30px;
+    text-align: left;
+    font-size: .875rem;
+    width: 80%;
+    margin-top: 10px;
+    border: none !important;
+   background-color: #D0D0D0;
+
+}
+.submit{
+
+    position: relative;
+    z-index: 1;
+    height: 30px;
+    text-align: center;
+    font-size: .875rem;
+    width: 80%;
+    margin-top: 10px;
+    border: none !important;
+    background-color:#66ff66;
+}
+.checkbox{
+    font-size: .500rem;
+}
+.checkboxx{
+    /* font-size: 1rem; */
+    height: 10px;
+    margin-top: 10px;
+}
+.Featured_Respices{
+/* 
+    border: 1px solid green !important; */
+    height: 30px !important;
+    display: flex;
+     font-size: 0.6rem;
+     /* text-align: center !important; */
+   margin-top: 20px !important;
+   letter-spacing: .1rem;
+   font-weight: 700;
+   margin: auto;
+   align-items: center;
+   justify-content: center;
+
+}
+.post-titlesss{
+   
+   
+   font-weight: 700;
+   margin: auto;
+   align-items: center;
+   
+  font-size: 0.6rem;
+  display: flex;
+  text-align: left;
+
+   
+}
+.rowul{
+    max-width: 100%;
+    list-style: none !important;
+    /* border: 1px solid red; */
+    margin-top: 10px !important;
+    margin: 0px;
+    padding: 0px;
+
+}
+/* .site-footer{
+    width: 100% !important;
+    border: 1px solid red;
+}
+.widget-titlleeform{
+   
+    position: relative;
+    display: block;
+    width: 100%;
+    height: 70%;
+    margin-bottom: 20px !important;
+    margin-top: 30px !important;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    font-size: 1.2rem;
+    
+}
+.footerpra{
+    display: block;
+    margin-block-start: 1rem;
+    margin-block-end: 1rem;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 0.6rem;
+    text-align: center;
+}
+.Email-2{
+  
+     height: 25px; 
+     text-align: left; 
+     font-size: .875rem; 
+   
+     border: none !important; 
+   background-color: #D0D0D0;
+
+   border: none;
+   color: #000; 
+    line-height: 2; 
+   font-weight: 400;
+   
+   border-radius:8px !important;
+  
+
+}
+.Submit-2{
+ 
+   
+   
+    width: 100px;
+   
+
+    background-color: #66ff66;
+    border-radius: 999px;
+    color: #fff;
+    font-size: .6875rem;
+    font-weight: 700;
+    letter-spacing: .2em;
+   
+    line-height: 22px;
+    text-align: center;
+
+    cursor: pointer;
+      margin: auto; 
+}
+.fileds-container{
+    display: block;
+text-align: center;
+}
+.checkbox1{
+    font-size: .500rem;
+    text-align: center;
+}
+.checkboxx1{
+    height: 10px;
+    margin-top: 10px;
+    text-align: center;
+} */
+
+.braindiv{
+    background-image: url("./Images/ad-1.jpg");
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    margin: auto;
+}
+.power{
+    text-align: center;
+    left: 20px !important;
+}
+.braindiv2{
+    background-image: url("../Footer/Images/bengali-sweets.jpg");
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.braindiv3{
+    background-image: url("../Footer/Images/cake1.jpg");
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}

@@ -1,25 +1,38 @@
-import logo from './logo.svg';
+
 import './App.css';
+
+ import {Route,Switch} from "react-router-dom";
+ import NavBar from './Components/Header/NavBar';
+ import Home from './Components/Header/Home';
+ import Index from './Components/RoundCircles/Index';
+import Sidebar from './Components/Sidebar/Sidebar';
+import Footer from './Components/Footer/Footer';
+import Instagram from './Components/Footer/Instagram';
+
+ 
+
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+  <div>
+   
+  <NavBar/> 
+   <Index/>
+   <Sidebar/> 
+
+  <Switch>
+  <Route   path="/home" component= {Home} />
+  
+
+  </Switch>
+  <Footer/>
+  <Instagram/>
+ 
+  
+  </div>
   );
+
 }
 
 export default App;

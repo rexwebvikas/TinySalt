@@ -1,0 +1,40 @@
+*{
+   margin: auto;
+   padding: auto;
+}
+   .Container img{
+   max-width:100%;
+    border-radius: 50%;   
+    display: block;
+    height: 80px;
+    margin-top: 20px;
+  
+  
+   
+}
+.Container {
+   margin-top: 100px;
+
+}
+.col-md-1{
+  
+   width: 100% !important;
+   text-align: center;
+   font-size: 8px;
+   padding: 0px;
+   color: black;
+}
+.row{
+   
+   width: 100vw;
+   margin: auto;
+  display: flex;
+  flex-direction: row;
+  background-color:#fff7e6;
+  
+}
+
+
+
+
+
