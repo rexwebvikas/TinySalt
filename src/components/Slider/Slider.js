@@ -20,7 +20,7 @@ const Slider = () => {
                     />
                     <Carousel.Caption>
                         <h1 className="head">The Best Spaghetti Meat Sauce </h1>
-                        <p>PASTA</p>
+                        <p id ="pcra2" >PASTA</p>
                         <i className="fa fa-eye"></i><span> 2.6K  </span>
                         <i className="fa fa-heart"></i><span> 37  </span>
                         <i className="fa fa-comments-o"></i><span> 0  </span>
@@ -34,7 +34,7 @@ const Slider = () => {
                     />
                     <Carousel.Caption>
                         <h1 className="head" >Pickled Summer Vegitables</h1>
-                        <p>VEGAN</p>
+                        <p id ="pcra2" >VEGAN</p>
                         <i className="fa fa-eye"></i><span> 8.6K  </span>
                         <i className="fa fa-heart"></i><span> 87  </span>
                         <i className="fa fa-comments-o"></i><span> 80  </span>
@@ -48,7 +48,7 @@ const Slider = () => {
                     />
                     <Carousel.Caption>
                         <h1 className="head" >Flat Irons Skillet Potatoes</h1>
-                        <p>APPETIZER / VEGAN </p>
+                        <p id ="pcra2" >APPETIZER / VEGAN </p>
                         <i className="fa fa-eye"></i><span> 3.6K  </span>
                         <i className="fa fa-heart"></i><span> 47  </span>
                         <i className="fa fa-comments-o"></i><span> 10  </span>
@@ -62,7 +62,7 @@ const Slider = () => {
                     />
                     <Carousel.Caption>
                         <h1 className="head" >10 Minutes Magic Orange Suace</h1>
-                        <p>APPETIZER / BREAD </p>
+                        <p id ="pcra2" >APPETIZER / BREAD </p>
                         <i className="fa fa-eye"></i><span> 6.6K  </span>
                         <i className="fa fa-heart"></i><span> 67  </span>
                         <i className="fa fa-comments-o"></i><span> 6  </span>
@@ -76,7 +76,7 @@ const Slider = () => {
                     />
                     <Carousel.Caption>
                         <h1 className="head" >Norwegian Egg Benedict</h1>
-                        <p>BREAD / SALAD</p>
+                        <p id ="pcra2" >BREAD / SALAD</p>
                         <i className="fa fa-eye"></i><span> 1.6K  </span>
                         <i className="fa fa-heart"></i><span> 27  </span>
                         <i className="fa fa-comments-o"></i><span> 2  </span>

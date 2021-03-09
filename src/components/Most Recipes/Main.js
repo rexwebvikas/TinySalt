@@ -13,14 +13,18 @@ import img10 from '../Most Recipes/images/15.jpeg'
 
 import './Latest.css'
 import LatestRecipes from './Latest'
+
+
+
 const Main = () => {
 
     return (
         <>
             <h4>Latest Recipes</h4>
-            <div className="container ct2" >
+       
+            <div className = "hype">
             <LatestRecipes  
-            imgsrc = {img1} 
+            imgsrc = {img1}
             Mainhead = "Brain Power Blueberry Smoothie"
             SecHead = "BEVERAGES / SWEET"
             Para = "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce porttitor metus eget lectus consequat, sit amet feugiat magna vulputate. Phasellus …"
@@ -70,12 +74,9 @@ const Main = () => {
             Para1 = "Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce porttitor metus eget lectus consequat, sit amet feugiat magna vulputate. Phasellus …"
              />
            
-            
-
-
-
+         
          </div>
-
+      
         </>
     );
 

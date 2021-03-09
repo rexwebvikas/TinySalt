@@ -3,13 +3,14 @@
     padding: 0px 0px;
     box-sizing: border-box;
 }
-.ct2{
+.hype{
     margin-left: 65px;
     /* border: 2px solid red;    */
     
     max-width: 80%;
     padding: 10px 30px;
-    margin-top: 150px;
+    padding-top: 68px;
+    /* margin-bottom: 60px; */
 }
 #colum1{
     border: 15px solid white;
@@ -23,8 +24,18 @@
 #colum2{
     /* margin-left: 20px; */
 }
+.section{
+    overflow: hidden;
+}
+.latcol{
+    overflow: hidden;
+}
+#section{
+    margin: 0px;
+    padding: 0px;
+}
 .image1{
-    background-image: url(./images/6.jpeg);
+    /* background-image: url(./images/6.jpeg); */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -35,6 +46,7 @@
     height: 400px; 
     padding: 0;
     margin:0;
+    overflow: hidden;
 }
 .brain{
     color:black;
@@ -72,3 +84,73 @@
 .main{
     margin-top: 118px;
 }
+h4{
+   
+    padding-top: 40px;
+   padding-left: 120px;
+}
+section{
+    height: auto;
+}
+
+
+.colum1{
+    border : 1px solid white;
+    width: 100%;
+    height: 500px;
+    padding: 0px;
+    margin-top: 90px;
+    transition: transform 1s ease;
+    overflow: hidden;
+}
+.colum1:before{
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+ 
+    content: "";
+    opacity: .3;
+    transition: opacity .4s;
+    pointer-events: none;
+}
+.colum1:hover .image1{
+	opacity: .8;
+}
+.colum1:after:hover{
+	position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+    background-image: linear-gradient( red , yellow);
+    content: "";
+    opacity: 0.4;
+    /* transition: opacity .9s; */
+    pointer-events: none;
+}
+.image1{
+  
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+      transition: transform 1s ease;
+  
+      width: 100%;
+      height: 500px;
+      padding: 0;
+      margin:0;
+      
+    
+   
+
+}
+.image1:hover {
+    -ms-transform: scale(1.1); /* IE 9 */
+      -webkit-transform: scale(1.1); /* Safari 3-8 */
+      transform: scale(1.1); 
+    }

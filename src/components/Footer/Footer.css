@@ -1,0 +1,42 @@
+*{
+    margin: 0px 0px;
+    padding: 0px 0px;
+    box-sizing: border-box;
+}
+#footer{
+    color:red
+}
+.footermain{
+    max-width: 100%;
+    height: 150px;
+    background-color: black;
+    /* border: 1px solid red; */
+}
+.footeratag{
+    color:white;
+    padding: 0px;
+    margin: 0px;
+    padding-left: 90px;
+    display: inline-block;
+    padding-top: 50px;
+}
+.footeratagp{
+    color:white;
+    padding-left: 50px;
+
+}
+.footeratagc{
+    color:white;
+    padding-left: 50px;
+
+}
+.righttext{
+    color: white;
+    float: right;
+    margin-right: 60px;
+    font-size: 15px;
+}
+#beats{
+    color: red;
+    font-size: 20px;
+}

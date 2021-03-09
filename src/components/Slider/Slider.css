@@ -67,6 +67,14 @@ img{
 .flex-container{
     text-align: center;
 }
+#pcra2 {
+
+    padding-left: 415px;
+    padding-top: 40px;
+    font-size: 25px;
+
+}
+
 
 
 @media only  screen and (max-width: 768px) {

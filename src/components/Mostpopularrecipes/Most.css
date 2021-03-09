@@ -24,7 +24,6 @@ img{
 	position: relative;
     width: 100%;
     margin: 0;
-
         padding: 0;
 	
 }
@@ -190,7 +189,7 @@ img{
 .clp:hover .col2{
 	opacity: .8;
 }
-.clp:after::hover{
+.clp:after:hover{
 	position: absolute;
     top: 0;
     left: 0;
@@ -535,7 +534,7 @@ left: 30px;
 #black2{
     height: 47px;
     width: 50px;
-    font-size: 21px;
+    font-size: 20px;
     background: rgba(0,0,0,.5);
     color: #fff;
     line-height: 55px;
